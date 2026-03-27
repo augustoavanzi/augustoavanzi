@@ -14,11 +14,11 @@ Sou apaixonado por tecnologia e busco aprender algo novo todos os dias. Meu foco
             src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/seu-usuario-aqui?tab=followers">
+    <a href="https://github.com/augustoavanzi?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/seu-usuario-aqui?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/augustoavanzi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
