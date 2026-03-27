@@ -48,8 +48,10 @@ Possuo conhecimento e vivência acadêmica nas seguintes tecnologias:
 * **Técnico:** Meio Ambiente – Etec Jacinto Ferreira de Sá.
 * **Principais Cursos:**
     * Python 3 (Mundo 1 e 2) – Curso em Vídeo.
+    * Redes de Computadores - Curso em Vídeo.
     * Banco de Dados para Data Science – SENAI.
     * IA Generativa aplicada à programação – SENAI.
+    * CyberOps Associate - Cisco Networking Academy.
     * Wazuh Bootcamp (SOC e Segurança).
     * Introdução a HTML/CSS.
 
