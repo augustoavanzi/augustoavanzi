@@ -1,10 +1,10 @@
-# [cite_start]👨‍💻 Augusto Barbosa Avanzi 
+# 👨‍💻 Augusto Barbosa Avanzi
 
-[cite_start]**`Estudante de Análise e Desenvolvimento de Sistemas`** [cite: 13]
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Olá! [cite_start]Me chamo Augusto Barbosa Avanzi [cite: 2, 3][cite_start], tenho 20 anos e sou natural de Ourinhos, interior de São Paulo[cite: 6]. [cite_start]Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Fatec Ourinhos**[cite: 13, 15].
+Olá! Me chamo Augusto Barbosa Avanzi, tenho 20 anos e sou natural de Ourinhos, interior de São Paulo. Atualmente, estou no 5º período (penúltimo semestre) do curso de **Análise e Desenvolvimento de Sistemas** na **Fatec Ourinhos**.
 
-[cite_start]Sou muito interessado em tecnologia e busco aprender algo novo todos os dias[cite: 9]. [cite_start]Meu objetivo é aplicar conhecimentos em programação e análise de dados para contribuir em projetos de TI, sempre buscando evolução técnica constante[cite: 8, 9]. [cite_start]Além da graduação, possuo formação técnica em **Meio Ambiente** pela **Etec Jacinto Ferreira de Sá**[cite: 11, 12].
+Sou apaixonado por tecnologia e busco aprender algo novo todos os dias. Meu foco é aplicar conhecimentos em programação e análise de dados para contribuir em projetos de TI, sempre buscando evolução técnica constante. Além da graduação, possuo formação técnica em **Meio Ambiente** pela **Etec Jacinto Ferreira de Sá**.
 
 <p align="left">
     <a href="mailto:augustoavanzi15@gmail.com">
@@ -44,14 +44,14 @@ Possuo conhecimento e vivência acadêmica nas seguintes tecnologias:
 
 ### 📚 Formação e Especializações
 
-* [cite_start]**Graduação:** Análise e Desenvolvimento de Sistemas – Fatec Ourinhos[cite: 13, 15].
-* [cite_start]**Técnico:** Meio Ambiente – Etec Jacinto Ferreira de Sá[cite: 11, 12].
-* [cite_start]**Principais Cursos:** [cite: 31]
-    * [cite_start]Python 3 (Mundo 1 e 2) – Curso em Vídeo[cite: 32].
-    * [cite_start]Banco de Dados para Data Science – SENAI[cite: 34].
-    * [cite_start]IA Generativa aplicada à programação – SENAI[cite: 35].
-    * [cite_start]Wazuh Bootcamp (SOC e Segurança)[cite: 38].
-    * [cite_start]Introdução a HTML/CSS[cite: 39].
+* **Graduação:** Análise e Desenvolvimento de Sistemas – Fatec Ourinhos.
+* **Técnico:** Meio Ambiente – Etec Jacinto Ferreira de Sá.
+* **Principais Cursos:**
+    * Python 3 (Mundo 1 e 2) – Curso em Vídeo.
+    * Banco de Dados para Data Science – SENAI.
+    * IA Generativa aplicada à programação – SENAI.
+    * Wazuh Bootcamp (SOC e Segurança).
+    * Introdução a HTML/CSS.
 
 ---
 
