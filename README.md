@@ -4,7 +4,7 @@
 
 Olá! Me chamo Augusto Barbosa Avanzi, tenho 20 anos e sou natural de Ourinhos, interior de São Paulo. Atualmente, estou no 5º período (penúltimo semestre) do curso de **Análise e Desenvolvimento de Sistemas** na **Fatec Ourinhos**.
 
-Sou apaixonado por tecnologia e busco aprender algo novo todos os dias. Meu foco é aplicar conhecimentos em programação, análise de dados e segurança de aplicações para contribuir em projetos de TI, sempre buscando evolução técnica constante. Além da graduação, possuo formação técnica em **Meio Ambiente** pela **Etec Jacinto Ferreira de Sá**.
+Sou apaixonado por tecnologia e busco aprender algo novo todos os dias. Meu foco é aplicar conhecimentos em programação e análise de dados para contribuir em projetos de TI, sempre buscando evolução técnica constante. Além da graduação, possuo formação técnica em **Meio Ambiente** pela **Etec Jacinto Ferreira de Sá**.
 
 <p align="left">
     <a href="mailto:augustoavanzi15@gmail.com">
@@ -26,8 +26,6 @@ Sou apaixonado por tecnologia e busco aprender algo novo todos os dias. Meu foco
 ---
 
 ### 🚀 Tecnologias e Ferramentas
-
-Possuo vivência acadêmica e prática nas seguintes áreas:
 
 **Linguagens e Web**
 <div style="display: inline_block">
