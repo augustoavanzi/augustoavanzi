@@ -49,7 +49,7 @@ Sou apaixonado por tecnologia e busco aprender algo novo todos os dias. Meu foco
 
 **IA e Produtividade**
 <div style="display: inline_block">
-    <img align="center" alt="Google AI Studio" title="Google AI Studio (Prompt Engineering)" width="40" src="https://fonts.gstatic.com/s/i/short-term/release/googleglyph/gemini/default/24px.svg" />
+    <img align="center" alt="Google AI Studio" title="Google AI Studio (Prompt Engineering)" width="40" src="https://imgs.search.brave.com/cRLtIjjPOJN3ND7qL6_1ce34F-mJiwzRth_XyuHGU_c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2xv/YmVodWIvbG9iZS1p/Y29ucy9yZWZzL2hl/YWRzL21hc3Rlci9w/YWNrYWdlcy9zdGF0/aWMtYXZhdGFyL2F2/YXRhcnMvYWlzdHVk/aW8ud2VicA" />
     <span><i>Utilização de IA Generativa para otimização de fluxo de trabalho e Engenharia de Prompt.</i></span>
 </div>
 
